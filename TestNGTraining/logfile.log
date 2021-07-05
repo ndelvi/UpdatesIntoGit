@@ -1,0 +1,5 @@
+2020-11-20 19:53:34,660 INFO  [Log4jExample] browser opened 
+2020-11-20 19:53:45,319 INFO  [Log4jExample] Home Value Entered 
+2020-11-20 19:53:45,526 INFO  [Log4jExample] Down Payment Entered 
+2020-11-20 19:53:47,646 INFO  [Log4jExample] Calculate Clicked 
+2020-11-20 19:53:48,861 INFO  [Log4jExample] Exit Test 

@@ -1,0 +1,10 @@
+2020-11-20 19:54:47,811 - Log4jExample -INFO - browser opened
+2020-11-20 19:54:57,893 - Log4jExample -INFO - Home Value Entered
+2020-11-20 19:54:58,091 - Log4jExample -INFO - Down Payment Entered
+2020-11-20 19:54:59,773 - Log4jExample -INFO - Calculate Clicked
+2020-11-20 19:55:00,532 - Log4jExample -INFO - Exit Test
+2020-12-23 19:47:39,775 - Log4jExample -INFO - browser opened
+2020-12-23 19:47:52,402 - Log4jExample -INFO - Home Value Entered
+2020-12-23 19:47:52,639 - Log4jExample -INFO - Down Payment Entered
+2020-12-23 19:47:54,613 - Log4jExample -INFO - Calculate Clicked
+2020-12-23 19:47:55,897 - Log4jExample -INFO - Exit Test
